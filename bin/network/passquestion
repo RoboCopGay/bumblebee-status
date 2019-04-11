@@ -1,0 +1,1 @@
+echo "$(rofi -sep "|" -dmenu -i -p "Password" -width 40 -hide-scrollbar -line-padding 4 -padding 20 -lines 1 <<< "Cancel" )"
