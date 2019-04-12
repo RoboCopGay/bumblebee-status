@@ -1,1 +1,1 @@
-echo "$(rofi -sep "|" -dmenu -i -p "Network" -hide-scrollbar -line-padding 4 -padding 20 -lines 4 <<< "*       XIUDERICO       Infra  6     135 Mbit/s  31      ▂▄__  WPA1 WPA2 |        JARDIEL.NET-01  Infra  60    270 Mbit/s  24      ▂___  WPA1 WPA2 |        Joao            Infra  11    135 Mbit/s  19      ▂___  WPA2      |        --              Infra  11    270 Mbit/s  15      ▂___  WPA1 WPA2 ")"
+echo "$(rofi -sep "|" -dmenu -i -p "Network" -hide-scrollbar -line-padding 4 -padding 20 -lines 1 <<< "*       Reconect  Infra  11    270 Mbit/s  43      ▂▄__  WPA1     ")"
